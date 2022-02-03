@@ -1,0 +1,45 @@
+.hero{
+    background-image: url('img/header-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.intro-section{
+    padding: 200px 30px;
+}
+
+.hero .intro-text{
+    text-align: center;
+    color: white;
+}
+
+header img{
+    background-repeat: no-repeat;
+    width: 100%;
+}
+header h1{
+    font-weight: bolder;
+    position: relative;
+}
+header h1 span{
+    font-weight: 100;
+} 
+.btn-custom{
+    border-radius: 90px;
+    background-color: white;
+    color: black !important;
+    font-size: 2.5vh !important;
+}
+.btn-custom:hover{
+border-bottom: yellow thick;
+}
+section center span{
+    align:center !important;
+    font-size: 9vh;
+    font-weight: lighter;
+    
+}
+.blue{
+    color: lightseagreen;
+    font-size:3vh;
+}
